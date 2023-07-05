@@ -1,0 +1,227 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Uğur Cem",
+      "surname": "Çergel",
+      "eMail": "ee@ee.com",
+      "phoneNumber": "5555555555",
+      "tckn": "11111111111",
+      "birthDate": "01.01.2021",
+      "address": "jnoınınoınnınuıunınıunoınoınoıun",
+      "startDateOfContactCenter": "02.02.2015",
+      "startDateOfEmployment": "02.02.2015",
+      "bloodGroupId": 1,
+      "educationId": 5,
+      "martialStatusId": 1,
+      "jobStationId": 1
+    },
+    {
+      "id": 2,
+      "name": "testname2",
+      "surname": "testsurname2",
+      "eMail": "ee@ee.com",
+      "phoneNumber": "5555555555",
+      "tckn": "11111111111",
+      "birthDate": "01.01.2021",
+      "address": "jnoınınoınnınuıunınıunoınoınoıun",
+      "startDateOfContactCenter": "02.02.2015",
+      "startDateOfEmployment": "02.02.2015",
+      "bloodGroupId": 1,
+      "educationId": 5,
+      "martialStatusId": 1,
+      "jobStationId": 1
+    },
+    {
+      "id": 3,
+      "name": "testname3",
+      "surname": "testsurname3",
+      "eMail": "ee@ee.com",
+      "phoneNumber": "5555555555",
+      "tckn": "11111111111",
+      "birthDate": "01.01.2021",
+      "address": "jnoınınoınnınuıunınıunoınoınoıun",
+      "startDateOfContactCenter": "02.02.2015",
+      "startDateOfEmployment": "02.02.2015",
+      "bloodGroupId": 1,
+      "educationId": 5,
+      "martialStatusId": 1,
+      "jobStationId": 1
+    },
+    {
+      "id": 4,
+      "name": "testname4",
+      "surname": "testsurname4",
+      "eMail": "ee@ee.com",
+      "phoneNumber": "5555555555",
+      "tckn": "11111111111",
+      "birthDate": "01.01.2021",
+      "address": "jnoınınoınnınuıunınıunoınoınoıun",
+      "startDateOfContactCenter": "02.02.2015",
+      "startDateOfEmployment": "02.02.2015",
+      "bloodGroupId": 1,
+      "educationId": 5,
+      "martialStatusId": 1,
+      "jobStationId": 1
+    },
+    {
+      "id": 5,
+      "name": "testname5",
+      "surname": "testsurname5",
+      "eMail": "ee@ee.com",
+      "phoneNumber": "5555555555",
+      "tckn": "11111111111",
+      "birthDate": "01.01.2021",
+      "address": "jnoınınoınnınuıunınıunoınoınoıun",
+      "startDateOfContactCenter": "02.02.2015",
+      "startDateOfEmployment": "02.02.2015",
+      "bloodGroupId": 1,
+      "educationId": 5,
+      "martialStatusId": 1,
+      "jobStationId": 1
+    },
+    {
+      "name": "asd",
+      "surname": "asd",
+      "birthDate": "",
+      "bloodGroups": [
+        {
+          "id": 1,
+          "name": "A Rh+"
+        },
+        {
+          "id": 2,
+          "name": "A Rh-"
+        },
+        {
+          "id": 3,
+          "name": "B Rh+"
+        },
+        {
+          "id": 4,
+          "name": "B Rh-"
+        },
+        {
+          "id": 5,
+          "name": "AB Rh+"
+        },
+        {
+          "id": 6,
+          "name": "AB Rh-"
+        },
+        {
+          "id": 7,
+          "name": "0 Rh+"
+        },
+        {
+          "id": 8,
+          "name": "0 Rh-"
+        }
+      ],
+      "phoneNumber": "+93 (333) 333 33 33",
+      "email": "asdad@asdas.com",
+      "address": "asfasdfasdf",
+      "id": 6
+    }
+  ],
+  "bloodGroup": [
+    {
+      "id": 1,
+      "name": "A Rh+"
+    },
+    {
+      "id": 2,
+      "name": "A Rh-"
+    },
+    {
+      "id": 3,
+      "name": "B Rh+"
+    },
+    {
+      "id": 4,
+      "name": "B Rh-"
+    },
+    {
+      "id": 5,
+      "name": "AB Rh+"
+    },
+    {
+      "id": 6,
+      "name": "AB Rh-"
+    },
+    {
+      "id": 7,
+      "name": "0 Rh+"
+    },
+    {
+      "id": 8,
+      "name": "0 Rh-"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "name": "İlkokul"
+    },
+    {
+      "id": 2,
+      "name": "Ortaokul"
+    },
+    {
+      "id": 3,
+      "name": "Lise"
+    },
+    {
+      "id": 4,
+      "name": "Ön Lisans"
+    },
+    {
+      "id": 5,
+      "name": "Lisans"
+    },
+    {
+      "id": 6,
+      "name": "Yüksek Lisans"
+    },
+    {
+      "id": 7,
+      "name": "Doktora"
+    }
+  ],
+  "martialStatus": [
+    {
+      "id": 1,
+      "name": "Evli"
+    },
+    {
+      "id": 2,
+      "name": "Bekar"
+    }
+  ],
+  "jobStation": [
+    {
+      "id": 1,
+      "name": "Çağrı Merkezi"
+    },
+    {
+      "id": 2,
+      "name": "Çözüm Merkezi"
+    },
+    {
+      "id": 3,
+      "name": "Kalite"
+    },
+    {
+      "id": 4,
+      "name": "Sosyal Medya"
+    },
+    {
+      "id": 5,
+      "name": "Beyaz Masa"
+    },
+    {
+      "id": 6,
+      "name": "Saha Araştırma"
+    }
+  ]
+}
