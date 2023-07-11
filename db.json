@@ -122,6 +122,28 @@
       "email": "asdad@asdas.com",
       "address": "asfasdfasdf",
       "id": 6
+    },
+    {
+      "name": "john",
+      "surname": "doe",
+      "birthDate": "7/19/2023",
+      "bloodGroupId": 3,
+      "phoneNumber": "+90 (555) 555 55 55",
+      "email": "john@doe.co",
+      "address": "test address",
+      "educationId": 2,
+      "id": 7
+    },
+    {
+      "name": "test",
+      "surname": "adasd",
+      "birthDate": "7/5/2023",
+      "bloodGroupId": 3,
+      "phoneNumber": "+95 (555) 555 55 55",
+      "email": "asd@acs.om",
+      "address": "asda",
+      "educationId": 5,
+      "id": 8
     }
   ],
   "bloodGroup": [
